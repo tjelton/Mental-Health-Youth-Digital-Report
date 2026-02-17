@@ -1,0 +1,23 @@
+
+#quarto-content{
+  background-color: #f2f5fa;
+}
+
+/* #f7faff */
+
+.cr-section {
+  background-color: #f2f5fa;
+}
+
+/* #457cc3 */
+/* #e1e2e6 */
+
+.narrative {
+  background-color: #e8e9ed;
+  border-radius: 5px;
+}
+
+.figure .figure-img{
+    border-radius: 10px;
+}
+
