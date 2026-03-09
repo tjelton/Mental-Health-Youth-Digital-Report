@@ -1,12 +1,12 @@
 
 #quarto-content{
-  background-color: #f2f5fa;
+  background-color: #ffffff;
 }
 
 /* #f7faff */
 
 .cr-section {
-  background-color: #f2f5fa;
+  background-color: #ffffff;
 }
 
 /* #457cc3 */
@@ -15,9 +15,10 @@
 .narrative {
   background-color: #e8e9ed;
   border-radius: 5px;
+  margin-left: 35px;
+  width: 110%;
 }
 
 .figure .figure-img{
     border-radius: 10px;
 }
-
